@@ -1,0 +1,13 @@
+{
+    "name": "dglabs/someproject",
+    "description": "Test project to try something",
+    "authors": [
+        {
+            "name": "Deepak Chandani",
+            "email": "shining.deepak10@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^3.4"
+    }
+}
